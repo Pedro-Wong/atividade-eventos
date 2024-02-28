@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+body{
+    background-color: black;
+    margin: 8px;
+}
+
+.titulo-h1{
+    color: white;
+    text-align: center;
+    margin:30px;
+}
+.conteudo-principal{ 
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(51, 51, 51);
+    border-radius: 3px;
+    padding: 30px;
+}
+
+.caixa-horario{
+    display: block;
+    background-color:#f0f0f0;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 28px;
+    margin-bottom: 15px;
+    padding: 30px ;
+    border-radius: 3px;
+}
+.titulo-h3{
+    padding-bottom: 10px;
+    font-size: 25px;
+}
+span{
+    color: rgb(210, 105, 30);
+}
+p{
+   padding-bottom: 12px; 
+   
+}
+.primeiro-p{
+    color: #767676;
+}
+
+.botao{
+    background-color: #D2691e;
+    color:#ede2da;
+    height: 20px;
+    width: 115px;
+    border-radius: 3px;
+    padding: 10px 20px;
+}
+a {
+    text-decoration: none;
+    color: #ede2da;
+}
+
+.botao:hover{
+    background-color: rgb(180, 46, 46);
+}
+
+footer{
+    color: white;
+    text-align: center;
+    margin: 30px;
+    font-size: 18px;
+}
